@@ -1,6 +1,6 @@
 # Covid-19 simulation usign network analysis
 
-This repo contains a simplified simulation of the spread of Covid-19. It is based on the epidemicalogical SEIR model making use of random geomatric graph instroduced by Waxman (1988) to mimick human social interaction. The simulation is able to capture the effect of social disctacing, lockdowns, herd immunity in addition to large and small (social) events.
+This repo contains a simplified simulation of the spread of Covid-19. It is based on the epidemicalogical SEIR model making use of random geomatric graph instroduced by Waxman (1988) to mimick human social interaction. The simulation is able to capture the effect of social disctacing, lockdowns, herd immunity in addition to large and small (social) events. Note: simulation is rather simplified and based on data from early 2019.
 
 1) `main.m` : Runs the simulation and contains options to test the various scenarios mentiond above. Also produces 
 2) `SEIR.m` : Contains the SEIR algorithm.
